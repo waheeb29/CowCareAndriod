@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887518297288",
+    "firebase_url": "https://cowcare-e23b3.firebaseio.com",
+    "project_id": "cowcare-e23b3",
+    "storage_bucket": "cowcare-e23b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887518297288:android:a8c3465afa79ab73a8f9fd",
+        "android_client_info": {
+          "package_name": "com.example.cowcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887518297288-ud7j7rl3hkemv24e0epglmadsg7mem8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cowcare",
+            "certificate_hash": "f8970b9f2adac8263cfb36d0c632ba602470c665"
+          }
+        },
+        {
+          "client_id": "887518297288-vmi5spg37ttq7cni1sr10pbruhrml4nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Rj8oKePIgnT_dZFyK8bXJ3SOt3P0HnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887518297288-vmi5spg37ttq7cni1sr10pbruhrml4nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
